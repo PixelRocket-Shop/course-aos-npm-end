@@ -1,0 +1,19 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "## Overview These are the starter files for the static HTML project of our Learn AOS.js course.",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "aos": "^2.3.4"
+  }
+}
